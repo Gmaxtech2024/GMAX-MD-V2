@@ -1,8 +1,8 @@
 {
-  "name": "GMAX-MD-v2",
-  "description": "Jᴀᴠᴀsᴄʀɪᴘᴛ Wʜᴀᴛsᴀᴘᴘ Bᴏᴛ Mᴀᴅᴇ Bʏ Mʀ ɢᴍᴀx",
-  "logo": "https://i.ibb.co/vQFfbhn/mrgmax.jpg",
-  "keywords": ["Mʀ✰ɢᴍᴀx"],
+  "name": "SHABAN-SOBX-MD",
+  "description": "Jᴀᴠᴀsᴄʀɪᴘᴛ Wʜᴀᴛsᴀᴘᴘ Bᴏᴛ Mᴀᴅᴇ Bʏ Mʀ Sʜᴀʙᴀɴ",
+  "logo": "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg",
+  "keywords": ["Mʀ✰Sʜᴀʙᴀɴ"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "GMAX-MD"
+      "value": "SHABAN-SOBX-MD"
     }, 
       
     "PREFIX": {
@@ -73,28 +73,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "✦ɢᴍᴀx-ᴍᴅ✦"
+      "value": "✦sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ✦"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Mʀ✰ɢᴍᴀx"
+      "value": "Mʀ✰Sʜᴀʙᴀɴ"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255753853473
-      "
+      "value": "923059395959"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "GMAX-MD"
+      "value": "SHABAN-SOBX-MD"
 
       }, 
 
@@ -120,27 +119,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "✦ɢᴍᴀx-ᴍᴅ✦"
+      "value": "✦sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ✦"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Mʀ✰ɢᴍᴀx"
+      "value": "Mʀ✰Sʜᴀʙᴀɴ"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255753853473"
+      "value": "923059395959"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "GMAX-MD"
+      "value": "SHABAN-SOBX-MD"
 
       }, 
 
@@ -160,7 +159,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɢᴍᴀx*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ sʜᴀʙᴀɴ*"
     },
 
       "DELETE_LINKS": {
