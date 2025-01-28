@@ -5,23 +5,23 @@
 
 ----------
 
-<a><https://i.ibb.co/vQFfbhn/mrgmax.jpg'/></a>
+<a><img src='https://i.ibb.co/vQFfbhn/mrgmax.jpg'/></a>
 
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`KERM+-+MD+-+V1+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`GMAX+-+MD+-+V2+WHATSAPP+BOT`" alt="">
 
 <br>
 
 --------
 
 <p align="center">
-<a href="https://github.com/Kgtech-cmr/"><img title="Followers" src="https://img.shields.io/github/followers/Kgtech-cmr?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kgtech-cmr/KERM-MD-V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kgtech-cmr/KERM-MD-V1?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kgtech-cmr/KERM-MD-V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kgtech-cmr/KERM-MD-V1?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kgtech-cmr/KERM-MD-V4/"><img title="Size" src="https://img.shields.io/github/repo-size/Kgtech-cmr/KERM-MD-V1?style=flat-square&color=blue"></a>
-<a href="https://github.com/Kgtech-cmr/KERM-MD-V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Gmaxtech2024/"><img title="Followers" src="https://img.shields.io/github/followers/Gmaxtech2024?color=blue&style=flat-square"></a>
+<a href="https://github.com/Gmaxtech2024/GMAX-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Gmaxtech2024/GMAX-MD-V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/Gmaxtech2024/GMAX-MD-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Gmaxtech2024/GMAX-MD-V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/Gmaxtech2024/GMAX-MD-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/Kgtech-cmr/GMAX-MD-V2?style=flat-square&color=blue"></a>
+<a href="https://github.com/Gmaxtech2024/GMAX-MD-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
