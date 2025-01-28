@@ -27,7 +27,7 @@
 </p>
 
 -----------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/KERM-MD-V1/count.svg" /><br>GMAX-MD-V2</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/GMAX-MD-v2/count.svg" /><br>GMAX-MD-V2</div>
 
 ------------
 
